@@ -83,7 +83,7 @@ usuario = {
    Viu como ficou bem organizado? hahaha
 </p>
 
-<strong> Dica: Utilize o console.log() do JavaScript para verificar se os dados estão realmente sendo salvos. </strong>
+<strong> Dica: Utilize o console.log( ) do JavaScript para verificar se os dados estão realmente sendo salvos. </strong>
 
 ---------------------------------------------------------------------------------------------------------------------------------------
                                                    Boa sorte !!!
